@@ -3,7 +3,7 @@
 
 Moore was a founding member of Fairchild Semiconductor and head of research. Moore's law states that the number of components on a computer chip doubles every two years. Moore anticipated that every two years, the number of transistors on a single square inch of an integrated circuit chip would double.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdandavidprize.org%2Flaureates%2Fgordon-e-moore%2F&psig=AOvVaw36B4ab3xEsqPHZxGQ9twsD&ust=1652612711413000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCc5Z_s3vcCFQAAAAAdAAAAABAD">
+![moore](https://user-images.githubusercontent.com/96833192/168423275-344267ba-06f9-4b59-b2c3-21cf15c5a22d.jpg)
 
 
 ## Extending Moore Law
